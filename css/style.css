@@ -1,0 +1,57 @@
+body {
+    background-color: lemonchiffon;
+    
+
+      
+ 
+  }
+.panel-body{
+    color: red;
+    background: lemonchiffon;
+    font-style: italic;
+    font-size: 20;
+    
+}
+.panel-title{
+    color: red;
+    font-style:italic;
+    
+    
+    
+     
+    
+}
+.panel-primary {
+    border-color:red;
+}
+.panel-primary>.panel-heading{
+    background-color: lemonchiffon;
+    border-color: red;
+}
+.well{
+    background: lemonchiffon;
+    border-color: red;
+}
+
+.col-md-2{
+    color:red;
+    font-style: italic;
+    font-size: 20;
+    
+    
+}
+.jumbotron {
+    background-image: url('../images/6a00e54efdd2b388340240a4b0e0f8200b.jpg');
+    text-align: 'center';
+    background-size: 100% 100%;
+    color: red;
+    border-style: dotted;
+    text-shadow: 2px 1px 2px #000;
+    font-style: italic;
+    
+}
+p {
+    color: red; 
+    font-style: italic;
+    font-size: 17px
+}
